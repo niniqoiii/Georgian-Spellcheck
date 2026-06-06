@@ -1,0 +1,5 @@
+torch
+matplotlib
+notebook
+requests
+tqdm
